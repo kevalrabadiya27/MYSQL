@@ -1,0 +1,10 @@
+actno, cname, bname, amount, adate
+101, 'anil', 'vrce', '1000', '1995-03-01'
+102, 'sunil', 'ajni', '5000', '1996-03-02'
+103, 'mehul', 'karolbaugh', '3500', '1996-05-10'
+104, 'madhuri', 'chandi', '1200', '1995-04-01'
+105, 'parmod', 'm.g.road', '3000', '1998-05-15'
+106, 'sandeep', 'andheri', '2000', '1999-03-01'
+107, 'shivani', 'virar', '1000', '1995-09-08'
+108, 'kranti', 'nehru place', '5000', '1995-03-01'
+109, 'minu', 'vihar', '7000', '1991-08-20'
